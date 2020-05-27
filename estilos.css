@@ -1,0 +1,21 @@
+body{ 
+background:black;
+color:white 
+} 
+h1{
+background:rgb(165, 28, 32);
+color:White
+}
+h3{
+background:rgb(165, 28, 32) ;
+float:right; 
+width:37%; 
+margin-right: 11px;
+margin-bottom:10px;
+}
+a{
+float: right;
+width: 2px;
+marginleft: 2px;
+color:white
+}
