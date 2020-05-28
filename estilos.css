@@ -1,10 +1,10 @@
-body{ 
+Body { 
 background:black;
-color:white 
+color:white; 
 } 
-h1{
+H1{
 background:rgb(165, 28, 32);
-color:White
+color:White;
 }
 h3{
 background:rgb(165, 28, 32) ;
@@ -13,9 +13,9 @@ width:37%;
 margin-right: 11px;
 margin-bottom:10px;
 }
-a{
+A{
 float: right;
 width: 2px;
 marginleft: 2px;
-color:white
+color:white;
 }
